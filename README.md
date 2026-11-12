@@ -3,7 +3,7 @@
 文字を入れるだけで、筆で書いたような画像が作れる無料ツールです。
 スマホでもパソコンでも、ブラウザだけで使えます。登録もいりません。
 
-**▶ 使ってみる：https://hidenorimiyatake8-hash.github.io/fudemoji-maker/**
+**▶ 使ってみる：https://hibiki-no-ie.github.io/fudemoji-maker/**
 
 ## できること
 
